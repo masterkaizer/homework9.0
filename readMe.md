@@ -14,7 +14,10 @@
 # Author Details 
 
 
-
 ![ProfileImage](https://avatars0.githubusercontent.com/u/62270445?v=4)
 
 Email: brandon.sellam@gmail.com
+Phone Number: 9293205965
+
+
+<img src="https://giphy.com/gifs/dAuqc8iaF0ZnxeHPaN/html5">
