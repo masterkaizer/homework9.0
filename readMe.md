@@ -21,8 +21,4 @@ Email: brandon.sellam@gmail.com
 Phone Number: 9293205965
 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-<img src="https://giphy.com/gifs/dAuqc8iaF0ZnxeHPaN/html5">
-
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/dAuqc8iaF0ZnxeHPaN" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dAuqc8iaF0ZnxeHPaN">via GIPHY</a></p>
-Have Fun thats the goal
+![Alt Text](https://media.giphy.com/media/dAuqc8iaF0ZnxeHPaN/giphy.gif)
