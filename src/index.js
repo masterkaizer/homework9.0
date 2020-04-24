@@ -112,7 +112,7 @@ async function main() {
         \n![ProfileImage](${gitProfileImage})
         \nEmail: ${gitEmail}
         `)
-var writeResult = fs.writeFileSync(path.join(__dirname, 'out', 'readMe.md'), result)
+var writeResult = fs.writeFileSync(path.join(__dirname, 'README.md'), result)
 console.log("file generated....")
     }
     catch (err) {
