@@ -16,4 +16,4 @@
         
 Email: brandon.sellam@gmail.com
         
-![Alt Text] (https://giphy.com/gifs/THTUTEOfDE3BnPd7ye)
+![Alt Text] (https://media.giphy.com/media/dAuqc8iaF0ZnxeHPaN/giphy.gif)
