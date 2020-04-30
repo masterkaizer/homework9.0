@@ -75,7 +75,7 @@ async function main() {
         const questions = userResponse.questions;
         // fetching data from git
 
-        const gitResponse = await axios.get(`https://api.github.com/users/${gitUsername}`);
+        const gitResponse = await api.getUser(gitUsername);
         const gitData = gitResponse.data;
         const gitName = gitData.login;
         const gitEmail = gitData.email;

@@ -1,5 +1,5 @@
 require("dotenv").config();
-import { get } from "axios";
+const axios=require("axios")
 
 const api = {
   getUser(username) {
@@ -9,8 +9,8 @@ const api = {
         Authorization: `token ${process.env.API_KEY}`,
       },
     };
-    return get(userURL, config);
+    return axios.get(userURL, config);
   },
 };
 
-export default api
+module.exports=  api
