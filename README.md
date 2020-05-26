@@ -18,7 +18,7 @@
 ![ProfileImage](https://avatars0.githubusercontent.com/u/62270445?v=4)
 
 Email: brandon.sellam@gmail.com
-Phone Number: 9293205965
+
 
 
 ![Alt Text](https://media.giphy.com/media/dAuqc8iaF0ZnxeHPaN/giphy.gif)

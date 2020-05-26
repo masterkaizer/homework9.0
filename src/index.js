@@ -1,11 +1,14 @@
 require("dotenv").config();
+// HERE WE ARE REQUIRING THE DEPENDENCY
 const inquirer = require("inquirer");
 const axios = require("axios");
 const fs = require('fs');
 const path = require('path');
 const api = require("./utils/api");
+
 async function main() {
     console.log(`starting`);
+    // HERE WE ARE SETTING THE QUESTION TO THE USER
     try {
         const userResponse = await inquirer
             .prompt([
@@ -98,6 +101,7 @@ async function main() {
             \n <img src="${gitContribuProfileImage}" alt="drawing" width="150" display="inline"/> ${contributorsGitUserName}  GitHubLink: ${gitContribuUrl}`);
             }
         }
+        // HERE WE ARE PROCESING THE ANSWER
         var result = (`
         # ${projectTitle} 
         # ${projectDescription}
@@ -112,6 +116,7 @@ async function main() {
         \n![ProfileImage](${gitProfileImage})
         \nEmail: ${gitEmail}
         `)
+        // HERE WE ARE CREATING THE README.MD FILE
 var writeResult = fs.writeFileSync(path.join(__dirname, 'README.md'), result)
 console.log("file generated....")
     }
