@@ -1,19 +1,11 @@
 {
   "name": "utils",
   "version": "1.0.0",
-  "description": "This is an Readme generator",
+  "description": "",
   "main": "api.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/masterkaizer/homework9.0.git"
-  },
-  "author": "Brandon J Sellam",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/masterkaizer/homework9.0/issues"
-  },
-  "homepage": "https://github.com/masterkaizer/homework9.0#readme"
+  "author": "",
+  "license": "ISC"
 }
